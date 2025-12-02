@@ -12,7 +12,6 @@ The file includes:
 ## Power BI Dashboard (Stroke Analysis)
 This repository also includes a Power BI dashboard developed to visually summarise the stroke analysis findings.
 ### Files Added
-- **Stroke_Analysis.pbix** – Full interactive Power BI file.
 - **Stroke_Analysis.pdf** – Export of the dashboard for quick viewing.
 ### Dashboard Highlights
 - Overall stroke prevalence and case distribution
